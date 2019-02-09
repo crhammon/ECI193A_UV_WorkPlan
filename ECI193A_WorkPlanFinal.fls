@@ -1,0 +1,327 @@
+PWD /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.tex
+OUTPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.log
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/utf8.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/utf8.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.dfu
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.dfu
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ot1enc.dfu
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ot1enc.dfu
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/omsenc.dfu
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/omsenc.dfu
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/pdfpages/pppdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/pdfpages/pppdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hanging/hanging.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hanging/hanging.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/notoccite/notoccite.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/notoccite/notoccite.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/makeidx.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/makeidx.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/fourier.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/fourier.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1enc.dfu
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1enc.dfu
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/fourier-orns.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/fourier-orns.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.aux
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.aux
+OUTPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.aux
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/fmlfutm.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/fmlfutm.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/fmsfutm.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/fmsfutm.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/fmxfutm.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/fmxfutm.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/t1futs.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/t1futs.fd
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.out
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.out
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.out
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.out
+OUTPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.pdf
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.out
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.out
+OUTPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.out
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futri8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/WP.png
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/WP.png
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/WP.png
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/fmlfutmi.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/fmlfutmi.fd
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/ts1futs.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fourier/ts1futs.fd
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8c.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8c.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8c.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futb8t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt-bold.tfm
+INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futr8t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futri8t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futri8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt-ita.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futb8t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt-bold.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futr8t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futb8t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt-bold.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futr8c.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-orns.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futr8t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt.tfm
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.toc
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.toc
+OUTPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.toc
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.lof
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.lof
+OUTPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.lof
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futmii.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mlit.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-ml.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futri8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futmii.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mlit.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-ml.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futri8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/RCP.png
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/RCP.png
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/RCP.png
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futsy.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-ms.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mcl.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futb8t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt-bold.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futb8t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt-bold.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futr8t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt.tfm
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/F1ss2.png
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/F1ss2.png
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/F1ss2.png
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8c.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8c.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futmii.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mlit.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-ml.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futri8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futmii.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mlit.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-ml.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futri8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futb8t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt-bold.tfm
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/F3P.png
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/F3P.png
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/F3P.png
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.aux
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.out
+INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_WorkPlanFinal.out
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/fourier/fourier-mex.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/fourier/fourier-mlit.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb
