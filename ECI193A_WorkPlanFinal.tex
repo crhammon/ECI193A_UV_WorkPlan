@@ -20,22 +20,56 @@
 \usepackage{hyperref}
 \usepackage{graphicx}
 \usepackage{lmodern}
+
+\usepackage{tikz,fouriernc}
+\usetikzlibrary{calc}
+\definecolor{lime}{RGB}{50,100,255}
+
+\definecolor{black}{RGB}{0,0,0}
+
+
+
+
+
 \usepackage{fourier}
 \usepackage[left=1in,right=1in,top=1in,bottom=1in]{geometry}
+
 \titleformat{\chapter}{\normalfont\huge}{\thechapter.}{20pt}{\huge\bf}
 \titlespacing*{\chapter}{0pt}{-.5in}{20pt}
 \author{Charles Hammond \\ Jaime Luo \\ Jacob Newman}
 
+
 \begin{document}
 
+\begin{titlepage}
+    \begin{tikzpicture}[overlay,remember picture]
+        \fill[lime!5] (current page.south east) rectangle (current page.north west);
+        \fill[lime,even odd rule] (current page.south west) rectangle ([xshift=2cm]current page.north west) ($(current page.north west)!.0!(current page.south west)$) arc(200:425:2);
+
+           \draw[lime!10,double=lime!10,double distance=2mm] (current page.south west) --+ (2,2) --+ (-2,6) --+ (2,8) --+ (-2,9) --+ (2,13) --+ (-2,18) --+ (2,30);
+
+        %\node[yshift=-5cm,xslant=1,yscale=1.6,lime!40,opacity=.2] at (9.5,-6.5) {\scalebox{6}{Mathematik}};
+
+        \node[yshift=+4cm,black] at (2.5,-7) {\scalebox{4}{Work Plan}};
+
+        \node[yshift=+1cm,black] at (8,-7) {\scalebox{2}{UV System Replacement/UVT Requirement Reduction}};
+
+        \node[yshift=-1cm,black] at (2.2,-7) {\scalebox{2}{\it pHlux Engineering}};
+
+
+            %\draw[lime,fill=lime!20] ([xshift=-1cm]current page.north east) -- ([yshift=-1cm]current page.north east) -- ([yshift=-2cm]current page.north east) -- ([xshift=-2cm]current page.north east);
+        %\path ([xshift=-1cm]current page.north east) -- ([yshift=-1cm]current page.north east) node[midway,sloped,below=.1cm,lime] {My Name};
+    \end{tikzpicture}
+\end{titlepage}
 
 
 \begin{center}
 
-\begin{huge}
+\begin{huge} 
 
-\begin{Huge}\textbf{Work Plan} \end{Huge} \\~\\ UV System Replacement/UVT Requirement Reduction \\~\\
+\begin{Huge}\textbf{Work Plan} \end{Huge} \\~\\  UV System Replacement/UVT Requirement Reduction \\~\\
 \end{huge}
+
 
 \begin{Large} \textit{pHlux Engineering} \end{Large}
 
