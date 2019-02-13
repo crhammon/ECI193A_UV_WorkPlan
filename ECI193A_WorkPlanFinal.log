@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  12 FEB 2019 20:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  12 FEB 2019 21:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1273,81 +1273,79 @@ LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <17.28> not available
 
 [4] [5]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 200.
- <RCP.png, id=129, 1124.2pt x 843.15pt>
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 185.
+ <RCP.png, id=128, 1124.2pt x 843.15pt>
 File: RCP.png Graphic file (type png)
  <use RCP.png>
-Package pdftex.def Info: RCP.png used on input line 204.
+Package pdftex.def Info: RCP.png used on input line 189.
 (pdftex.def)             Requested size: 346.88594pt x 260.16803pt.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 206.
- [1 <./RCP.png (PNG copy)>] <F1ss2.png, id=141, 1014.79124pt x 285.56688pt>
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 191.
+ [1] [2 <./RCP.png (PNG copy)>] <F1ss2.png, id=144, 1014.79124pt x 285.56688pt>
 File: F1ss2.png Graphic file (type png)
  <use F1ss2.png>
-Package pdftex.def Info: F1ss2.png used on input line 248.
+Package pdftex.def Info: F1ss2.png used on input line 233.
 (pdftex.def)             Requested size: 469.75502pt x 132.19026pt.
-
-[2]
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 265.
+(Font)              scaled to size 9.19998pt on input line 250.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 265.
+(Font)              scaled to size 6.99199pt on input line 250.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 265.
+(Font)              scaled to size 9.19998pt on input line 250.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 265.
+(Font)              scaled to size 6.99199pt on input line 250.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <7.6> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 268.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 253.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <6> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 268.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 253.
+
+[3 <./F1ss2.png>]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <8.3> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 279.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 264.
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
 
  []
 
-[3 <./F1ss2.png>] <F3P.png, id=157, 768.8725pt x 299.61937pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
+
+[4] <F3P.png, id=161, 768.8725pt x 299.61937pt>
 File: F3P.png Graphic file (type png)
  <use F3P.png>
-Package pdftex.def Info: F3P.png used on input line 323.
+Package pdftex.def Info: F3P.png used on input line 308.
 (pdftex.def)             Requested size: 333.8233pt x 130.08401pt.
-
-[4] [5 <./F3P.png>] (./ECI193A_WorkPlanFinal.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 354.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 354.
-
-(./ECI193A_WorkPlanFinal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 354.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 354.
+ [5 <./F3P.png>]
+[6] (./ECI193A_WorkPlanFinal.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 339.
+ [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 339.
+ (./ECI193A_WorkPlanFinal.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 339.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 339.
 Package rerunfilecheck Info: File `ECI193A_WorkPlanFinal.out' has not changed.
 (rerunfilecheck)             Checksum: BC75FC59E19B4BA07CC4C4CE07278CCF;885.
  ) 
 Here is how much of TeX's memory you used:
- 11265 strings out of 492995
- 161725 string characters out of 6132704
- 267743 words of memory out of 5000000
+ 11266 strings out of 492995
+ 161731 string characters out of 6132704
+ 269743 words of memory out of 5000000
  14519 multiletter control sequences out of 15000+600000
  116026 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,11n,40p,1572b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/fourier/fourier-mex.pfb></usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/fourier/fourier-mlit.pfb></usr/local/
-texlive/2017/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/t
-exlive/2017/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/
-2017/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2017/te
-xmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on ECI193A_WorkPlanFinal.pdf (12 pages, 689623 bytes).
+exlive/2017/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2017/tex
+mf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on ECI193A_WorkPlanFinal.pdf (13 pages, 687966 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
- 179 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
+ 209 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
  157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
