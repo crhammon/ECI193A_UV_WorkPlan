@@ -10,11 +10,10 @@ W.~Donald~E., H.~Claudia~C., H.~Annette, and C.~Geoffrey, {\em National
 \newblock USDA Natural Resources Conservation Service, 1400 Independence Ave.,
   S.W. Washington, DC 20250, May 2010.
 
-\bibitem{HEC}
-S.~A. Brown, J.~D. Schall, J.~L. Morris, C.~L. Doherty, S.~M. Stein, and J.~C.
-  Warner, {\em Hydraulic Engineering Circular No. 22: Urban Drainage Design
-  Manual}.
-\newblock Federal Highway Administration, 1200 New Jersey Ave., S.E.,
-  Washington, D.C. 20590, 3rd~ed., September 2009.
+\bibitem{Metcalf}
+G.~Tchobanoglous, H.~D. Stensel, R.~Tsuchihashi, F.~Burton, M.~Abu-Orf,
+  G.~Bowden, and W.~Pfrang, {\em {Wastewater Engineering: Treatment and
+  Resource Recovery}}.
+\newblock McGraw-Hill Education, Metcalf and Eddy | AECOM, 5th~ed., 2014.
 
 \end{thebibliography}
