@@ -1,14 +1,32 @@
 \begin{thebibliography}{1}
 
+\bibitem{UCDNews}
+K.~Kerlin, ``{New UC Davis Wastewater Treatment Plant Begins Operations}.''
+  \url{https://www.ucdavis.edu/news/new-uc-davis-wastewater-treatment-plant-begins-
+  operations/}, October 1999.
+
+\bibitem{TrojanUV1}
+{Trojan UV}, ``{The Stormwater Management System, Cog Moors Wastewater
+  Treatment Works, South Wales}.''
+  \url{https://www.resources.trojanuv.com/wp-content/uploads/2018/05/CSO-and-Stormwater-Treatment-Cog-Moors-Wastewater-Treatment-Works-Case-Study.pdf},
+  March 2008.
+
+\bibitem{TrojanLowUVT}
+J.~Muller and W.~Lem, ``{UV Disinfection of Stormwater Overflows and Low UVT
+  Wastewaters}.'' {Trojan UV,}
+  \url{https://www.resources.trojanuv.com/wp-content/uploads/2018/07/IUVA-Stormwater_Final-Submitted.pdf},
+  ???
+
+\bibitem{NPDES}
+{California Central Valley Regional Water Quality Control Board}, ``{Waste
+  Discharge Requirements for the University of California, Davis Main
+  Wastewater Treatment Plant, Solano and Yolo Counties}.''
+  \url{https://www.ucdavis.edu/news/new-uc-davis-wastewater-treatment-plant-begins-
+  operations/}, December 2014.
+
 \bibitem{White}
 W.~Frank~M., {\em {Fluid Mechanics}}.
 \newblock McGraw-Hill Education, 8th~ed., 2016.
-
-\bibitem{USDA}
-W.~Donald~E., H.~Claudia~C., H.~Annette, and C.~Geoffrey, {\em National
-  Engineering Handbook: Part 630}.
-\newblock USDA Natural Resources Conservation Service, 1400 Independence Ave.,
-  S.W. Washington, DC 20250, May 2010.
 
 \bibitem{Metcalf}
 G.~Tchobanoglous, H.~D. Stensel, R.~Tsuchihashi, F.~Burton, M.~Abu-Orf,
