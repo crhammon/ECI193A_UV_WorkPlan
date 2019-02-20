@@ -265,30 +265,10 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mlit.t
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-ml.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futri8r.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8c.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8c.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futb8t.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8r.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt-bold.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futb8t.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8r.tfm
@@ -296,18 +276,6 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt-bo
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futr8t.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8r.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futmii.vf
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mlit.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-ml.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futri8r.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futmii.vf
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-mlit.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-ml.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futr8r.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futri8r.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/public/fourier/futb8t.vf
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/futb8r.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fourier/fourier-alt-bold.tfm
 INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_UV_WorkPlan/F3P.png
 INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_UV_WorkPlan/F3P.png
 INPUT /Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_UV_WorkPlan/F3P.png
