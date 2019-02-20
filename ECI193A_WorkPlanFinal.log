@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 FEB 2019 20:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 FEB 2019 21:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1186,7 +1186,7 @@ LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
  [3]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 275.
- [4] <F3P.png, id=186, 768.8725pt x 299.61937pt>
+ [4] <F3P.png, id=187, 768.8725pt x 299.61937pt>
 File: F3P.png Graphic file (type png)
  <use F3P.png>
 Package pdftex.def Info: F3P.png used on input line 316.
@@ -1219,10 +1219,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  42i,10n,40p,1649b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on "/Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_UV_WorkPlan/ECI193A_WorkPlanFinal.pdf" (11 pages, 548807 bytes).
+Output written on "/Users/charliehammond/Documents/UC Davis/(10)Winter 2019/ECI 193A/Work Plan/LaTeX/ECI193A_UV_WorkPlan/ECI193A_WorkPlanFinal.pdf" (11 pages, 548780 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
- 221 compressed objects within 3 object streams
+ 247 PDF objects out of 1000 (max. 8388607)
+ 222 compressed objects within 3 object streams
  49 named destinations out of 1000 (max. 500000)
  147 words of extra memory for PDF output out of 10000 (max. 10000000)
 
