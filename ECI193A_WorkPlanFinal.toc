@@ -8,11 +8,14 @@
 \contentsline {section}{\numberline {3.1}Site History}{3}{section.3.1}
 \contentsline {section}{\numberline {3.2}Regulations}{3}{section.3.2}
 \contentsline {section}{\numberline {3.3}Precedents}{3}{section.3.3}
-\contentsline {chapter}{\numberline {4}Technical Approach}{4}{chapter.4}
-\contentsline {chapter}{\numberline {5}Deliverables}{4}{chapter.5}
-\contentsline {section}{\numberline {5.1}Summary}{4}{section.5.1}
+\contentsline {chapter}{\numberline {4}Technical Approach}{3}{chapter.4}
+\contentsline {section}{\numberline {4.1}Literature Review}{4}{section.4.1}
+\contentsline {section}{\numberline {4.2}Client Meeting and Site Assessment}{4}{section.4.2}
+\contentsline {section}{\numberline {4.3}Data Collection}{4}{section.4.3}
+\contentsline {section}{\numberline {4.4}Data Analysis and Interpretation}{5}{section.4.4}
+\contentsline {chapter}{\numberline {5}Deliverables}{5}{chapter.5}
 \contentsline {chapter}{\numberline {6}Project Management}{5}{chapter.6}
-\contentsline {chapter}{\numberline {7}Risk Management}{5}{chapter.7}
-\contentsline {chapter}{\numberline {8}Required Resources}{5}{chapter.8}
-\contentsline {chapter}{\numberline {9}References}{5}{chapter.9}
-\contentsline {chapter}{\numberline {10}Appendix A - Resumes}{5}{chapter.10}
+\contentsline {chapter}{\numberline {7}Risk Management}{6}{chapter.7}
+\contentsline {chapter}{\numberline {8}Required Resources}{7}{chapter.8}
+\contentsline {chapter}{Appendix A - Resumes}{8}{section*.7}
+\contentsline {chapter}{Appendix B - Assessment Criteria}{9}{section*.8}

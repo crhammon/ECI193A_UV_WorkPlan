@@ -15,7 +15,22 @@
 \usepackage{float}
 \usepackage{makeidx}
 \usepackage{color}
+
+\usepackage{multirow}
+
+
+\usepackage{booktabs}% http://ctan.org/pkg/booktabs
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+
+
+\usepackage{lscape}
+
+\usepackage{enumitem}
+
 \usepackage{titlesec}
+
+
+
 \usepackage{gensymb}
 \usepackage{hyperref}
 \usepackage{graphicx}
@@ -27,14 +42,22 @@
 %                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
 %                                   {2.3ex \@plus.2ex}%
 %                                   {\normalfont\Large\bfseries}}
+
 \renewcommand\chapter{\@startsection {chapter}{0}{\z@}%
-                                   {-4.5ex \@plus -1ex \@minus -.2ex}%
-                                   {3.3ex \@plus.2ex}% 
-                                   {\normalfont\LARGE\textbf}}
+                                   {-1.5ex \@plus -1ex \@minus -.2ex}%
+                                   {.5ex \@plus.2ex}% 
+                                   {\normalfont\Large\textbf}}
 
 
 \makeatletter
 
+\renewcommand\section{\@startsection {section}{0}{\z@}%
+                                   {-.1ex \@plus -1ex \@minus -.2ex}%
+                                   {.05ex \@plus.2ex}% 
+                                   {\normalfont\large\textbf}}
+
+
+\makeatletter
 
 
 \setlength{\parskip}{\baselineskip}%
@@ -46,6 +69,7 @@
 
 
 \usepackage{fourier}
+
 \usepackage[left=1in,right=1in,top=1in,bottom=1in]{geometry}
 
 \titleformat{\chapter}{\normalfont\huge}{\thechapter.}{20pt}{\huge\bf}
@@ -140,6 +164,7 @@ CVRWQCB & Central Valley Regional Water Quality Control Board & \\
 MPN & Most probable number &  \\
 mgd & Million gallons per day & $10^6$ gal/day \\
 ADP & Advanced Disinfection Process & \\
+ kWh & kilowatt-hours % \\
 
 
 
@@ -255,7 +280,52 @@ Trojan UV, whose technology the current UV disinfection system utilizes, claims 
 \setcounter{table}{0}
 \chapter{Technical Approach}
 
+pHlux Engineering’s approach to this project is based on a thorough study of the principles of UV disinfection and an analysis of historical and present plant operations data. After analyzing and interpreting the data from a bioassay test of the existing UV system, the engineering team will draft and finalize a memorandum to the California Regional Water Quality Control Board (CRWQCB) with recommendations on modifying the UVT requirement in the discharge permit. For the design of the new disinfection system, UV will be compared to chlorine and ozone to determine the cheapest and safest alternative. The engineering team will then develop multiple designs utilizing  the chosen disinfection method and evaluate their performance based on criteria such as cost, energy efficiency, and use of existing infrastructure. Once a final design has been agreed upon and optimized, work will begin on preparing the final design deliverables. A full list of project tasks is presented below.
 
+\begin{enumerate}[topsep=0pt,itemsep=-0ex,partopsep=0ex,parsep=0ex]
+    \item Literature review
+    \begin{enumerate}[topsep=0pt,itemsep=-0ex,partopsep=0ex,parsep=0ex]
+            \item Review UV disinfection concepts and best practices
+            \item Review permits and regulations
+    \end{enumerate}
+    \item Client meeting and site assessment
+    \item Data collection
+    \begin{enumerate}[topsep=0pt,itemsep=-0ex,partopsep=0ex,parsep=0ex]
+        \item  Bioassay test
+        \item Historical data
+    \end{enumerate}
+    \item Data analysis and interpretation
+    \item Author memorandum
+    \item Disinfection method alternatives analysis
+    \item Preliminary design and alternatives development
+    \begin{enumerate}[topsep=0pt,itemsep=-0ex,partopsep=0ex,parsep=0ex]
+        \item UV dosage
+        \item Fouling prevention mechanisms
+        \item Lamp specifications
+    \end{enumerate}
+    \item Alternatives analysis
+    \item Preparation of final design deliverables
+\end{enumerate}
+
+\section{Literature Review}
+
+To begin this project, the engineering team performed a literature review of UV disinfection principles to identify relevant design parameters and best management practices for UV disinfection. Operational hazards associated with UV radiation were studied to understand how best to mitigate risks in the final design. The preliminary research phase also included a review of all regulations and permits that influence the design and operation of the WWTP. Special attention was given to  Title 22 standards for tertiary treated recycled water and the UCD WWTP’s  unique NPDES permit. Additionally, pHlux Engineering plans to analyze case-studies concerning UV performance under low UVT conditions to provide better informed recommendations regarding the plant’s UVT exceedances. 
+
+\section{Client Meeting and Site Assessment}
+
+The project team met with Courtney Hall from the UC Davis Utilities Division (Utilities Division) to discuss the client’s needs and desires. During the meeting Ms. Hall informed the engineering team that UV disinfection was originally chosen for the UCD WWTP at the recommendation of UC Davis environmental engineering faculty. She also expressed the Utilities Division’s desire to replace the existing UV system with another UV project because of the staff’s familiarity with this disinfection method. This meeting was followed by a visit to the WWTP to document the existing UV disinfection system and to observe a bioassay test performed by Carollo Engineers.
+
+\section{Data Collection}
+
+The UC Davis Utilities Division provided historical data for the daily plant and UV channel flows as well as bacterial test data for the performance of the existing disinfection system. The Utilities Division also supplied PDFs of the as-built construction drawings for the WWTP that will be used to assess the existing footprint of the UV disinfection system. Additionally, the Utilities Division will provide the results from Carollo Engineers’ bioassay test as well as historical data for the UVT of the UV system influent. Rainfall data for the UC Davis campus will be taken from the historical record of the UC Davis Department of Atmospheric Science, which operates an on-campus weather station. 
+
+\section{Data Analysis and Interpretation}
+
+The historical rainfall and UVT data will be used to compute the average rainfall event size that causes a UVT exceedance and how frequently these violations occur. Next, the results of the bioassay test will be analyzed to determine the minimum allowable UVT at which the existing UV system is able to meet its NPDES disinfection requirement. Recommendations will be made to revise the existing NPDES permit based on the determined frequency of UVT exceedance and the minimum allowable UVT.
+ 
+The historical flow and bacterial test data will be used by the engineering team to properly size the new disinfection system and to determine the required disinfection dose. Additionally, these two sets of data will be used to run and verify  a  model that pHlux Engineering will create to assess the alternative disinfection system designs.
+
+NEEDS REST OF SECTIONS 4.5 to end
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -268,27 +338,12 @@ Trojan UV, whose technology the current UV disinfection system utilizes, claims 
 \setcounter{equation}{0}
 \setcounter{table}{0}
 \chapter{Deliverables}
-Runoff flow rates typically increase when a watershed is developed; the grass and soil become covered in tarmac, pavement, and houses, so less water is absorbed into the soil. To prevent downstream natural ecosystems from being overwhelmed by the increased runoff, detention ponds are designed to contain the upstream channel's discharge and to release the same flowrate into the natural ecosystem as was released pre-development. Table 6.2 summarizes the detention pond and orifice design parameters. See Appendix G for additional technical drawings and for the MATLAB code used to calculate volumes.
 
-\begin{table}[H]
-    \centering
-    \caption{Detention pond design parameters.}
-    \begin{tabular}{lcc}
-\textbf{Parameter}&\textbf{Value}&\textbf{Constraint}\\ \hline
-Maximum Water Depth, 10-year Storm (ft) & 3.5 & 4 \\
-Total Pond Depth (ft) & 4.5  & \\
-Freeboard (ft) & 1 &  \\
-Pond Storage & 200,123.5 & \\ 
-Volume of Excavation (ft$^3$) & 707,233.3 & \\
-Orifice Area ft$^2$& 2.85 &\\
-Orifice Diameter ft & 2 & \\ \hline
+For this project, pHlux Engineering is tasked with completing multiple deliverables for the client. The first main deliverable will be a technical memorandum that uses data from a bioassay test conducted at the UCD WWTP by Carollo Engineers to make recommendations to the Central Valley Regional Water Board to modify the current UVT limits set by the NPDES permit. The final draft of this memorandum will be completed and submitted by April 5, 2019. 
 
-\end{tabular} 
-\end{table}
+The second deliverable will be the final design of a new UV disinfection system. This will be a deliverable that will not be directly submitted to the client, but will be presented in the final deliverables. pHlux Engineering will have this final design completed by May 19, 2019 so that there is adequate time to complete the final deliverables. The final deliverables consist of a poster to be presented at the Senior Design Showcase on June 6, 2019, a final presentation to the client on May 19, 2019, a media release video to be submitted by June 7, 2019, and a final report due on June 13, 2019. These final deliverables will summarize the entire design process, from defining the problem to considering alternative solutions to selecting the final design based on cost, efficiency, and environmental considerations 
 
 
-\section{Summary}
-This detention pond design effectively manages the pre/post-development scenario and prevents downstream ecosystems from being overwhelmed. With a pre-development peak runoff flowrate of 30 cfs and the post-development value of 61 cfs, the required storage is 197,904 ft$^3$. The maximum water depth in the pond is 3.5 ft for 10-year storm and a freeboard of 1 ft is included. The depth of 3.5 ft is shallow enough to prevent residents from harming themselves should they fall into the pond. A circular pond with a flat bottom and an island in the middle was chosen for the design; the circular shape is pleasing to the eye, and the island provides habitat for beneficial insects and adds aesthetic value. The pond will be lined with the same native flora used throughout this design to ensure a seamless and natural-feeling transition between the channel and the pond. Additionally, the natural lining will facilitate infiltration to recharge groundwater supplies. A side slope of 3:1 (H:V) was chosen to allow for easy landscaping with native vegetation. Construction costs were reduced by extending the pond with a 3:1 slope to the same height as the top of the channel; otherwise, excavation costs would be many times larger. The orifice is located on the opposite side of the pond as the inlet and is sized appropriately to allow the pre-development peak runoff flowrate of 30 cfs to flow through it when the water depth reaches 3.5 ft. Orifice costs were reduced by using a standard size, corrugated metal pipe.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -302,6 +357,13 @@ This detention pond design effectively manages the pre/post-development scenario
 \setcounter{table}{0}
 \chapter{Project Management}
 
+The pHlux Engineering team consists of Charles Hammond, Jaime Luo, and Jacob Newman. Charles is the Programming Specialist and Scribe for this project, and will be responsible for documenting meetings. He has environmental engineering experience with the Los Angeles County Sanitation Districts (LACSD) and is experienced with  the software programs that will be used in this project, including AutoCAD, FlowMaster, and MATLAB. Jaime is the Facilitator and Time Manager for this project and will be responsible for ensuring the team meets deadlines and updating the project timeline as necessary. She has taken water and environmental engineering courses at UC Davis and has experience working with Flowmaster and AutoCAD. As the Project Liaison and Editor, Jacob is in charge of all communication with the client and advisors and will serve as the final editor on all written documents. His qualifications include relevant water treatment and design courses and prior experience working with LACSD, including extensive experience working with project managers and equipment vendors. 
+
+This project will require knowledge of wastewater systems and the regulations related to UV disinfection.. In addition to technical knowledge,  this project will require knowledge of project management to design a new UV disinfection system that fits the client’s needs and stays within the project constraints. This project will require strong writing skills for the technical memorandum and final report. The pHlux Engineering team is highly adept and well-rounded in both technical engineering and writing, and will apply these skills to produce high-quality results.
+
+Given that this project will require many intermediary steps to achieve the final design, time management will be crucial for efficiently completing the project. To help organize the project timeline and manage tasks and deadlines, a Gantt Chart detailing major tasks and milestones will be used. This Gantt Chart, shown below in Figure 1, will assist the engineers with tracking the progress of the project and keeping them on schedule. The chart is divided into two sections for the two project objectives--the UVT memorandum and the UV disinfection system design. Each section is divided into subsections to provide more detail.
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%% 7.0 Risk Management %%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -311,11 +373,40 @@ This detention pond design effectively manages the pre/post-development scenario
 \setcounter{table}{0}
 \chapter{Risk Management}
 
-\begin{figure}[H]
+As with any engineering project, there are risks associated that can affect the course of the project and the performance of the team. The potential risks for this project and prevention/mitigation strategies are summarized in Table X below. For controllable risks, preventative measures can be taken and for uncontrollable risks, mitigative measures can be taken.
+
+\begin{table}[H]
     \centering
-    \includegraphics[height=.2\textheight]{F3P.png}
-    \caption{Impression of what the pond may look like after landscaping. }
-\end{figure}
+    \caption{Risk management.}
+
+    \def\arraystretch{1}
+    \begin{tabular}{c|ll}
+
+\textbf{}&\textbf{Risk}&\textbf{Prevention/Mitigation} \\ \hline
+
+
+\multirow{7}{*}{Controllable} & Safety during WWTP visits &  Inform facility of visit \\
+   &  &  Bring a partner \\
+   &  &  Wear PPE \\ [.3\normalbaselineskip]  %use \tabitem to put a bullet
+   &  Software trouble &  Use peer resources through Slack \\[.3\normalbaselineskip]
+    &  Overambitious goals &  Consider alternatives \\[.3\normalbaselineskip]
+   &  Writing in one voice &  Collaborate and familiarize writing styles \\[.3\normalbaselineskip]
+   & Team Conflicts &  Communicate openly and reach out to advisors if necessary \\[.3\normalbaselineskip] \hline
+   \multirow{3}{*}{Uncontrollable} & Illness/emergencies &  Be flexible\\
+   &  &  Redistribute tasks\\
+    &  &  Communicate with client about changes \\
+\end{tabular} 
+\end{table}
+
+
+These risks are all very possible and realistic for this project, however, pHlux Engineering will be applying the preventative strategies throughout their engineering process to reduce the probability of the controllable risks occurring. The chances of the uncontrollable risks occurring is unpredictable, but in the chance that an unforeseen circumstance does arise, the team will be proactive and flexible in adjusting their engineering process and the project scope to manage the impacts that would arise. 
+
+
+% \begin{figure}[H]
+%     \centering
+%     \includegraphics[height=.2\textheight]{F3P.png}
+%     \caption{Impression of what the pond may look like after landscaping. }
+% \end{figure}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%% 8.0 Required Resources %%%%%%%%%%%%%%%%%%%%%
@@ -327,28 +418,63 @@ This detention pond design effectively manages the pre/post-development scenario
 \chapter{Required Resources}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%% 9.0 References %%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+For this project, an estimated 15 person hours/week is expected from each engineer, totalling a cumulative 675 hours over the course of 15 weeks. This includes approximately 9 individual person hours/week spent in lectures, labs, and meetings. The remaining 6 person hours per week will be spent on the major tasks over the estimated time it will take to complete as detailed in the Gantt Chart, with some of the major tasks overlapping. A breakdown of these person hours are shown in Table X in the Appendix. The engineers recognize that these hours are estimates and will fluctuate over the course of the projects and will be flexible to adjust as needed to meet deadlines. 
 
+pHlux Engineering will will request access from the client to conduct site visits to the UCD Wastewater Treatment Plant to understand the project site better and to document the current system’s features. The drafting of the technical memorandum and the design of a UV disinfection system will require the use of various resources. For the technical memorandum, data from a bioassay test conducted by Carollo Engineers and historical rainfall data, provided by Carollo Engineers and the client, will be used. To design a new UV disinfection system, the historical rainfall data, most probable number data, and existing system as-builts will be requested from the client to create a new system. Various software programs, including AutoCAD, FlowMaster, and Matlab, will be used to analyze the data and model the design.
 
-\setcounter{figure}{0}
-\setcounter{section}{0}
-\setcounter{table}{0}
-\chapter{References}
+NEEDS TABLE
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%% 10.0 Appendix A %%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+\newpage
 \setcounter{figure}{0}
 \setcounter{section}{0}
 \setcounter{table}{0}
-\chapter{Appendix A - Resumes}
-
+\chapter*{Appendix A - Resumes}
+\addcontentsline{toc}{chapter}{Appendix A - Resumes}
 
 \renewcommand{\thefigure}{A.\arabic{figure}}
 \setcounter{figure}{0}
+
+\begin{landscape}
+\newpage
+\setcounter{figure}{0}
+\setcounter{section}{0}
+\setcounter{table}{0}
+\chapter*{Appendix B - Assessment Criteria}
+\addcontentsline{toc}{chapter}{Appendix B - Assessment Criteria}
+\renewcommand{\thefigure}{B.\arabic{figure}}
+\setcounter{figure}{0}
+
+\begin{table}[H]
+    \centering
+    \caption{Assessment criteria for alternatives.}
+
+    \def\arraystretch{2}
+    \begin{tabular}{lccc}
+
+\textbf{Criteria}&\textbf{Assessment Tool}&\textbf{Performance Metric}&\textbf{Threshold for Success} \\ \hline
+
+Capital Cost & Literature/manufacturer Estimates & Dollars to Construct & Lowest \\
+O\&M Cost & Literature/manufacturer Estimates & Annual Cost of O\&M & Lowest \\
+Maintenance Requirements & Literature/manufacturer Estimates & Weekly person-hours & Lowest \\
+Operational Hazards & Literature/manufacturer Information & Number of safety concerns & Fewest \\
+Meets Title 22 standards & Title 22 & $\frac{\text{Standards met}}{\text{\# of standards}}$& 100\% \\
+Utilizes Existing Infrastructure & Inventory of existing onsite infrastructure & Dollars saved by using existing equipment & Greatest savings \\
+Energy Efficiency & Literature and manufacturer’s specifications & $\frac{\text{kWh input}}{\text{kWh output}}$ & Closest to 1 \\
+Life Cycle Assessment & Literature/manufacturer Estimates & Annual Cost of O\&M & Lowest \\
+Permissible UVT & Literature/manufacturer Estimates & UVT (\%) & Less than 55\% \\
+System Lifetime & Literature/manufacturer Estimates & Years & $\geq 20$ \\ \hline
+
+
+\end{tabular} 
+\end{table}
+\end{landscape}
+
+
+
 
 
 \begin{flushleft}
